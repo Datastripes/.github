@@ -1,3 +1,5 @@
+<img width="1127" height="657" alt="banner2" src="https://github.com/user-attachments/assets/a744a6fe-15ef-444c-a09a-9e5dedc28527" />
+
 # Hi there, we are Datastripes 👋
 
 <p align="center">
